@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World 
+Hi i'm Pipin 👋
+
+![age](https://img.shields.io/badge/age-20-blue)
+![living](https://img.shields.io/badge/living-sidoarjo-red)
 
 <!--
 **heypurnomo/heypurnomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
